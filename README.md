@@ -64,3 +64,4 @@ npx react-native run-android
 ## Troubleshoot
 
 - if metro bundler is not starting automatically then start it manually using `npm start` or `yarn start` from the project folder# sonarqube
+# sonarqube
